@@ -5,8 +5,9 @@ accountCity="Jaipur"
 
 //accountId=2    not allowed since it is const
 
-accountEmail="dfgaerger"
+accountEmail="dfgaerger" 
 accountPassword="12351"
 accountCity="Tripura"
 
 console.log([accountEmail,accountPassword,accountCity])
+ 
